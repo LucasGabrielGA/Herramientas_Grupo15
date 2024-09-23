@@ -1,0 +1,13 @@
+altgraph==0.17.4
+babel==2.16.0
+distlib==0.3.8
+filelock==3.16.0
+packaging==24.1
+pefile==2024.8.26
+platformdirs==4.3.2
+pyinstaller==6.10.0
+pyinstaller-hooks-contrib==2024.8
+pywin32-ctypes==0.2.3
+setuptools==74.1.2
+tkcalendar==1.6.1
+virtualenv==20.26.4
