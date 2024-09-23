@@ -7,8 +7,10 @@ El Programa cuenta con:
 - Temporizador.
 - Cronómetro.
 
+Todas las dependencias del programa se encuentran en el archivo "requirements.txt", o puede ser ejecutado desde el archivo .exe dentro de la carpeta "dist".
+
 El programa fue realizado por el Grupo 15:
-Cristal Brisa Quintana
-Lucas Gabriel Gay Aguinaga
-René Alejandro González
-Santiago Nahuel Larrea
+- Cristal Brisa Quintana
+- Lucas Gabriel Gay Aguinaga
+- René Alejandro González
+- Santiago Nahuel Larrea
